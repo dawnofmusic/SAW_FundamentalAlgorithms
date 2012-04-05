@@ -9,3 +9,7 @@ Maybe you'll find it useful. In that case you're welcome to use it.
 Author
 ------
 (c) 2009 - 2012 Sebastian A. Weiﬂ - post@sebastian-weiss.de
+
+Makes usage of the following libraries/projects
+-----------------------------------------------
+vecmath.jar by Sun Microsystems

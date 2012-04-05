@@ -15,4 +15,5 @@ Author
 Depends on the following libraries/projects
 -------------------------------------------
    vecmath.jar by Sun Microsystems
-   ws_tools-0.3.8.jar developed by weiﬂ&schmidt, wsdevel.de
+   
+   ws_tools-0.3.8.jar developed by weiﬂ&schmidt, http://www.wsdevel.de

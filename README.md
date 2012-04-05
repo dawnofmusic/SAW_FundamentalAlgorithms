@@ -10,6 +10,7 @@ Author
 ------
 (c) 2009 - 2012 Sebastian A. Weiﬂ - post@sebastian-weiss.de
 
-Makes usage of the following libraries/projects
------------------------------------------------
-vecmath.jar by Sun Microsystems
+Depends on the following libraries/projects
+-------------------------------------------
+   vecmath.jar by Sun Microsystems
+   ws_tools-0.3.8.jar developed by weiﬂ&schmidt, wsdevel.de

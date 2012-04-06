@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/Fundamental-Algortihms/src/de/wsdevel/algorithms/backtracking/nqueens/NQueensProblem.java"/>
+<listEntry value="/SAW_FundamentalAlgortihms/src/de/wsdevel/algorithms/backtracking/nqueens/NQueensProblem.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
@@ -12,5 +12,5 @@
 <listEntry value="org.eclipse.debug.ui.launchGroup.run"/>
 </listAttribute>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="de.wsdevel.algorithms.backtracking.nqueens.NQueensProblem"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Fundamental-Algortihms"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="SAW_FundamentalAlgortihms"/>
 </launchConfiguration>

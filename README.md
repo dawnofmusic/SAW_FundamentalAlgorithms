@@ -1,5 +1,5 @@
-Fundamental Algorithms Readme
-=============================
+Fundamental Algorithms
+======================
 About this project
 ------------------
 This project just contains some sources I created during the last couple of 
